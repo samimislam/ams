@@ -1,6 +1,10 @@
 # amsystem
 Attendence Management System using Python
+
+
 -------------------------------------------------------------------------------------------------------------------------------------
+
+
 import pymysql
 import pandas as pd
 import time
@@ -182,6 +186,8 @@ while (choice != 5):
                     print("exit......")
     else:
                     print ("WRONG CHOICE ! Please enter your choice between 1 and 5")
+                    
+                    
 --------------------------------------------------------------------------------------------------------------------------------------
 
 
